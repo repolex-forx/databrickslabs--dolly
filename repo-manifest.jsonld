@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/databrickslabs/dolly/commit/e2d664ddf06e0723d818dc56d6c522ead4bd881d",
       "git:hexsha": "e2d664ddf06e0723d818dc56d6c522ead4bd881d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
