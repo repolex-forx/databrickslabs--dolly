@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "dolly",
+  "versions": [
+    {
+      "commit": "e2d664ddf06e0723d818dc56d6c522ead4bd881d",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:02:32.137818+00:00"
+    }
+  ]
+}
